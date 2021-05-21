@@ -27,6 +27,7 @@ export const Campo = styled.div`
     textarea{
         flex: 1;
         padding: 1rem;
+        line-height: 1;
     }
     textarea{
         height: 400px;
